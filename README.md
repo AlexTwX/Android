@@ -16,3 +16,7 @@ Les details sont :
 	- le nombre d'attache libre
 De plus sur la map, un marqueur est afficher pour lui préciser l'endroit.
 Pour finir, l'utilisateur peut acceder à l'itineraire de sa position à l'endroit de la station choisi.
+
+
+J'ai déjà eu une experience sur Android lors de mon stage.
+
