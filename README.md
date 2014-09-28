@@ -1,9 +1,11 @@
 Android
 =======
 --Introduction--
+
 Réaliser une application Android VLille.
 
 --Description--
+
 L'application permet de lister toutes les stations disponible de Lille.
 De plus, les stations sont triés par ordre de proximité croissante.
 Lorsque l'utilisateur appuye sur une des stations, il a acces aux details de celle-ci
